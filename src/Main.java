@@ -284,7 +284,8 @@ public class Main {
 //
 //        System.out.println(plain);
 //        System.out.println("Hello");
-        System.out.println("Вносим изменения");
+//        System.out.println("Вносим изменения");
+        System.out.println("Вносим изменения в клонируемый проект");
     }
 
 //    public static byte[] encode(String pText, String pKey) {
